@@ -1,6 +1,6 @@
 {
-  "name": "jira-demo",
-  "version": "0.1.0",
+  "name": "hoos-ts-components",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@babel/core": "7.12.3",
@@ -115,7 +115,7 @@
       "<rootDir>/src/**/*.{spec,test}.{js,jsx,ts,tsx}"
     ],
     "testEnvironment": "jsdom",
-    "testRunner": "/Users/cuitongyang/Desktop/code/react/jira-demo/node_modules/jest-circus/runner.js",
+    "testRunner": "/Users/cuitongyang/Desktop/study_project/hoos-ts-components/node_modules/jest-circus/runner.js",
     "transform": {
       "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": "<rootDir>/node_modules/babel-jest",
       "^.+\\.css$": "<rootDir>/config/jest/cssTransform.js",
